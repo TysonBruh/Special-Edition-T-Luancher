@@ -1,3 +1,3 @@
 # Special-Edition-T-Luancher
 It's basically t-luancher but another better edition.
-You have to install utorrent on the computer to get the installer file because the installer file is 102mb so I can't upload it directly.
+You can open the link to google drive to download the installer: https://drive.google.com/file/d/1olf3mUd-hThVszJqiCPcBjXYZ0TkXF0z/view?usp=sharing
